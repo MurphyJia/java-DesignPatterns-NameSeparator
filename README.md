@@ -1,7 +1,7 @@
 # learning-java
 * 做了一个姓名分离器，通过规定格式输入姓名可以将姓与名分离再进行输出。主要算法参考中国电力出版社的《Java设计模式》（James W. Cooper著）中第三章《工厂模式》，UI界面是自己设计的。
 * 本人是一名大二学生，计算机专业，第一次在这里记录下自己平时写的代码。技术不足，请多多包涵，欢迎指点批评。
-* Hi, you can all me Vera. I'm a sophomore, majoring in computer science. If the technical level is not high, please forgive me. This is the first time I recorded my usual code practice in GitHub. The main algorithm of this small code refers to Java design pattern (by James W. Cooper) published by China Electric Power Publishing House. The UI design interface is written by myself. The level of UI interface design is not high, and I have just been self-taught.
+* Hi, you can call me Vera. I'm a sophomore, majoring in computer science. If the technical level is not high, please forgive me. This is the first time I recorded my usual code practice in GitHub. The main algorithm of this small code refers to Java design pattern (by James W. Cooper) published by China Electric Power Publishing House. The UI design interface is written by myself. The level of UI interface design is not high, and I have just been self-taught.
 ## Introduction of my programme 程序介绍
 * 假设要建立一个登记表，允许按照规定的格式，例如：“名 姓”或者“姓，名”来录入姓名。简而言之，这个程序的功能就是通过姓和名之间是否有逗号来确定姓名的顺序。步骤如下：
 1. 首先要定义一个简单的基类，代码中对应的是Name类，它的主要功能是为两个子类提供继承和扩展
